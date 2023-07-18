@@ -1,8 +1,8 @@
 # D&D Dice Simulator
-
-## About
-A simple simulation of standard dice used in a fantasy tabletop role-playing game [Dungeons & Dragons](https://en.wikipedia.org/wiki/Dungeons_%26_Dragons). 
+<img src="https://cdn-icons-png.flaticon.com/512/6688/6688558.png" align="left" alt="drawing" width="100" height="100" color: white style="max-width:17%;"/>A simple simulation of standard dice used in a fantasy tabletop role-playing game [Dungeons & Dragons](https://en.wikipedia.org/wiki/Dungeons_%26_Dragons). 
 The simulator provides 7 types of dice (differing in number of sides) to choose from. 
+
+</br>
 
 ## Prerequisities
 The project is built on Arduino UNO platform.
