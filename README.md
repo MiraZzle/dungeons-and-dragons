@@ -11,10 +11,10 @@ You will need:
 2. [7 Segment display](https://www.laskakit.cz/hodinovy-displej-tm1637--cerveny/?gclid=CjwKCAjwkeqkBhAnEiwA5U-uM1NEJE5VE82NQLYDGOBpYgm54MGRBueVhJcAJhHB3qjPBpUT_NDEuhoCRgQQAvD_BwE#relatedFiles)
 3. [Buzzer (5V, 2.3 KHz)](https://dratek.cz/arduino/1251-aktivni-bzucak-5v-2.3-khz.html?gclid=CjwKCAjwkeqkBhAnEiwA5U-uM0-9UzfDUxOdSV-eDP1Bs8x3dNG2nvL34aHU504he-EqYvo7bPuXOhoCGXcQAvD_BwE)
 
-## How to run it
-Once you have all the neccesary equipment, clone the repository and load it on your UNO board.
+## Installation
+Once you have all the neccesary equipment, clone the repository and load `dungeons_and_dragons.ino` to your UNO board.
 
-## Output
+## Usage
 The dice outputs a sum of randomly generated values determinated by dice type times the number of throws.
 
 ## Controls
@@ -29,3 +29,8 @@ Indexing buttons from left
 - Button 3
   - swtiches dice to configuration mode
   - chances dice type (number of dice sides)
+
+## TODO
+
+- Custom GUI for editing the dice
+- Improve animation for number generating
