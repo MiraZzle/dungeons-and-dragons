@@ -32,5 +32,5 @@ Indexing buttons from left
 
 ## TODO
 
-- Custom GUI for editing the dice
-- Improve animation for number generating
+- [ ] Custom GUI for editing the dice
+- [ ] Improve animation for number generating
