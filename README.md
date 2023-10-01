@@ -1,4 +1,4 @@
-<h2 align="center">D&D Dice Simulator</h2>
+<h1 align="center">D&D Dice Simulator</h1>
 
 <p align="center">
 A simple simulation of standard dice used in a fantasy tabletop role-playing game <a href="https://en.wikipedia.org/wiki/Dungeons_%26_Dragons">Dungeons & Dragons</a>. 
